@@ -1,0 +1,75 @@
+
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header img
+{
+width: 100%;
+} 
+
+nav
+{
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: lightblue;
+font-size: 1.5rem;
+}
+
+nav a{
+text-decoration: none;
+}
+
+nav a:hover
+{
+color:green;
+background-color: orange;
+}
+
+main {
+    margin-left: 50px;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    }
+
+main article img
+{
+opacity: 0.8;
+width: 100%;
+}
+
+main article {
+    width: 30%;
+    display: inline-block;
+    margin: 20px 5px;
+box-shadow: 10px 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+blockquote{
+text-align: center;
+}
+
+.container{
+    text-align: center;
+    width: 50%;
+    background-color: lightgreen;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.container label{
+display: inline-block;
+margin: 10px 5px;
+}
+
+.container fieldset{
+
+}
+
